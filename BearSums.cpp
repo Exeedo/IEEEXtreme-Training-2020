@@ -1,3 +1,6 @@
+// Problem link: https://csacademy.com/ieeextreme-practice/task/bear-sums
+// By: Osama Khallouf
+
 #include <bits/stdc++.h>
 using namespace std;
 
