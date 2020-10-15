@@ -1,4 +1,4 @@
-// Problem link: https://csacademy.com/ieeextreme-practice/task/concentration-game/
+// Problem link: https://csacademy.com/ieeextreme-practice/task/impact-factor/
 // By: Osama Khallouf
 
 // IT IS NOT RECOMMENDED TO SOLVE THIS PROBLEM USING C++.
