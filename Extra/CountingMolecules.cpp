@@ -1,4 +1,4 @@
-// Problem link: https://csacademy.com/ieeextreme-practice/task/concentration-game/
+// Problem link: https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/counting-molecules/
 // By: Osama Khallouf
 
 #include <bits/stdc++.h>
