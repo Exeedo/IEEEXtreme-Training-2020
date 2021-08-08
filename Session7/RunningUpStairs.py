@@ -1,5 +1,5 @@
-// Problem link: https://csacademy.com/ieeextreme-practice/task/96c8b1313edd72abf600facb0a14dbab/
-// By: Osama Khallouf
+# Problem link: https://csacademy.com/ieeextreme-practice/task/96c8b1313edd72abf600facb0a14dbab/
+# By: Osama Khallouf
 
 # =============== Starting of the automated code =========================
 
@@ -28,7 +28,7 @@ def get_number():
 import numpy
 import scipy
 
-'''
+''' This part is commented
 a = get_number()
 b = get_number()
 
